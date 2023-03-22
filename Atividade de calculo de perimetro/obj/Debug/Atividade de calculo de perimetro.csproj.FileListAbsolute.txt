@@ -1,0 +1,8 @@
+C:\Users\Sis\Documents\W\Atividade de calculo de perimetro\Atividade de calculo de perimetro\bin\Debug\Atividade de calculo de perimetro.exe.config
+C:\Users\Sis\Documents\W\Atividade de calculo de perimetro\Atividade de calculo de perimetro\bin\Debug\Atividade de calculo de perimetro.exe
+C:\Users\Sis\Documents\W\Atividade de calculo de perimetro\Atividade de calculo de perimetro\bin\Debug\Atividade de calculo de perimetro.pdb
+C:\Users\Sis\Documents\W\Atividade de calculo de perimetro\Atividade de calculo de perimetro\obj\Debug\Atividade de calculo de perimetro.csproj.AssemblyReference.cache
+C:\Users\Sis\Documents\W\Atividade de calculo de perimetro\Atividade de calculo de perimetro\obj\Debug\Atividade de calculo de perimetro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sis\Documents\W\Atividade de calculo de perimetro\Atividade de calculo de perimetro\obj\Debug\Atividade de calculo de perimetro.csproj.CoreCompileInputs.cache
+C:\Users\Sis\Documents\W\Atividade de calculo de perimetro\Atividade de calculo de perimetro\obj\Debug\Atividade de calculo de perimetro.exe
+C:\Users\Sis\Documents\W\Atividade de calculo de perimetro\Atividade de calculo de perimetro\obj\Debug\Atividade de calculo de perimetro.pdb
